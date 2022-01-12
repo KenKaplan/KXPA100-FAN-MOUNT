@@ -8,7 +8,7 @@ fan_mount_with_rocker_switch mounts the 80mm fan, with a mount for a rocker swit
 
 I operate 99.99% CW and wear headphones, so the fan noise is not heard at all (Radiosport Listen-Only headphones).
 
-The resistor I used, was one I had, 22ohms at 5w wirewound. If you do not have an 80mm fan, just do a Google search and you will find plenty on EBay aand Amazon.
+e resistor I used, was one I had, 22ohms at 5w wirewound. If you do not have an 80mm fan, just do a Google search and you will find plenty on EBay aand Amazon. The hole spacing on my fan was 72mm, the height was 25mm.
 
 All pieces were printed in PETG on an Original Prusa i3 MK3S+ (sorry, I do not have a printer, but a friend has this one).
 
